@@ -86,7 +86,7 @@ public class ListDevices
 				}
 				
 				System.out.format(cfg.toString());
-
+				System.out.format(cfg.toString());
 
 			}
 		}
