@@ -25,7 +25,7 @@ public class ListDevices
 	{
 		// Create the libusb context
 		Context context = new Context();
-
+//priva git
 		// Initialize the libusb context
 		int result = LibUsb.init(context);
 		// int result1 = LibUsb.init(context);
